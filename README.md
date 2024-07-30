@@ -12,6 +12,10 @@ Theory -> Opeartors in C++ are the symbols that are used two perform some mathem
 
 
 Output <br> 
-![exp3]()
+
+![exp3](https://github.com/Shloka-Patel/Experiment---3/blob/main/Output_3.png)<br> 
+
+
+Conclusion -> I learnt about using perators in C++ <br> 
                                             
 
