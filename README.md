@@ -2,6 +2,8 @@
 
 Aim -> To study and implement Operators in C++  <br> 
 
+Software -> Visual Studio Code <br> 
+
 Theory -> Opeartors in C++ are the symbols that are used two perform some mathematocalor logical operations on the variables. <br> 
           They are classified into 6 types: 1. Arithematic Operators (+, -, *, /, ++, --)<br>
                                             2. Assignment Operators (=, +=, -=, *=, /=)<br> 
