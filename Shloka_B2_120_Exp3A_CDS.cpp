@@ -13,7 +13,7 @@ cin>>b;
 sum=a+b;   
 cout<<"Sum is: "<<sum<<"\n";                            // Sum is: 30
 diff=a-b;   
-cout<<"Difference is: "<<diff<<"\n";                    // Sum is: 30
+cout<<"Difference is: "<<diff<<"\n";                    // Difference is: -26
 prod=a*b;   
 cout<<"Product of the numbers is: "<<prod<<"\n";        // Product of the numbers is: 56
 div=a/b;   
