@@ -17,6 +17,10 @@ Opeartors in C++ are the symbols that are used two perform some mathematocalor l
 
 ### Code: <br>
 ```
+// NAME - SHLOKA PATEL  
+// PRN - 23070123120  
+// EXPERIMENT -3   
+
 #include<iostream> 
 using namespace std; 
 int main()  
